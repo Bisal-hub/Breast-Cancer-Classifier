@@ -19,7 +19,7 @@ In this project data set for Breast Cancer from Sklearn.datasets was used .Other
 #Findings 
 A data from kaggle site was added to the predictor system which after accurately calculating result predicting the tumor as shown below : 
 <img src= "![image](https://github.com/Bisal-hub/Breast-Cancer-Classifier/assets/134628968/b9ae50be-babf-45ea-a8e3-5a36ca4d242e)
-"   height="200" width="300" >
+"  >
 
 
 
